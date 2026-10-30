@@ -1,0 +1,8 @@
+# FRIDAY AI — Example Configuration
+# Copy this file to config.txt and customize it.
+# Lines starting with # are comments.
+
+assistant_name=FRIDAY
+version=0.1.0
+greeting=Hello! I am your personal assistant.
+prompt_symbol=friday>
